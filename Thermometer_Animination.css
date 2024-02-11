@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  font-weight: bold;
+}
+body {
+  height: 100vh;
+  background: linear-gradient(to top left, #ff5f6c5f, #ffc47165);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.thermosec {
+  background: linear-gradient(135deg, #ffc371 10%, #ff5f6d 100%);
+  border-radius: 0.5em;
+  padding: 0.5em;
+}
